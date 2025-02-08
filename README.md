@@ -11,7 +11,7 @@ traduit les sous-titres avec deepl et ajoute la nouvelle piste traduite a la vid
 
 3   lancer cokW.py , saisir la clé DeepL ( apres l'abonnement gratuit ,sur le site , vous accederez a votre profil et à la clé Api
 
-4   cokw va généré secret.key et  encrypted_api_key.enc 
+4   cokw va générer secret.key et  encrypted_api_key.enc 
 
 5   lancer subW 
 
