@@ -2,7 +2,9 @@
 traduit les sous-titres avec deepl et ajoute la nouvelle piste traduite a la vidéo
 
 1. abonnez vous gratuitement a DeepL Api
+   https://www.deepl.com/pro?utm_source=github&utm_medium=github-java-readme#developer
    l'abonnement est gratuit mais une verification de carte bleue est obligatoire
+   500 000 mots / mois
      
 2   lancer $ ./install.sh 
 
