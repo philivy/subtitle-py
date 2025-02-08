@@ -6,6 +6,9 @@ traduit les sous-titres avec deepl et ajoute la nouvelle piste traduite a la vid
      
 2   lancer $ ./install.sh 
 
+   active l'environnement python --->$ source /home/user/deepl-py/.venv/bin/activate
+ 
+
 3   lancer cokW.py , saisir la clé DeepL ( apres l'abonnement gratuit ,sur le site , vous accederez a votre profil et à la clé Api
 
 4   cokw va généré secret.key et  encrypted_api_key.enc 
